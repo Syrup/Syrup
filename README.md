@@ -14,7 +14,7 @@ Yes, all of that is fun
 I am learning...
 - <img height="20" width="20" src="./icons/javascript.svg" /> Javascript Programming Language
 - <img height="20" width="20" src="./icons/typescript.svg" /> TypeScript Programming Language
-- <img height="20" width="20" src="./icons/python.svg" /> Python Programming Language
+- <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language
 - English Language
 - Japan Language
 
