@@ -17,7 +17,7 @@ I am learning...
 - <img height="20" width="20" src="./icons/javascript.svg" /> Javascript Programming Language
 - <img height="20" width="20" src="./icons/typescript.svg" /> TypeScript Programming Language
 - <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language
-- English Language
-- Japan Language
+- 🇬🇧 English Language and 🇺🇲 English USA Language
+- 🇯🇵 Japan Language
 
 ![FLEX](https://github-readme-stats.vercel.app/api?username=syrup&theme=nightowl&show_icons=true)
