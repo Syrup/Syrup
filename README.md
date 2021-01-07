@@ -20,4 +20,6 @@ I am learning...
 - 🇬🇧 English Language and 🇺🇲 English USA Language
 - 🇯🇵 Japan Language
 
+![Syrup#4506](https://discord.c99.nl/widget/theme-3/681843628317868049.png)
+
 ![FLEX](https://github-readme-stats.vercel.app/api?username=syrup&theme=nightowl&show_icons=true)
