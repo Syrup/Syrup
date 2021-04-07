@@ -24,6 +24,6 @@ I am learning...
 - goodgamersz665@gmail.com
 - contact@mioun.xyz
 
-![Syrup#4506](https://discord.c99.nl/widget/theme-3/681843628317868049.png)
+![Syrup#4506](https://discord.c99.nl/widget/theme-1/681843628317868049.png)
 
 ![FLEX](https://github-readme-stats.vercel.app/api?username=syrup&theme=nightowl&show_icons=true)
