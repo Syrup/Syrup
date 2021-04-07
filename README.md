@@ -22,7 +22,7 @@ I am learning...
 
 #### Email
 - goodgamersz665@gmail.com
-- contact@mioun.my.id
+- contact@mioun.xyz
 
 ![Syrup#4506](https://discord.c99.nl/widget/theme-3/681843628317868049.png)
 
