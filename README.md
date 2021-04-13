@@ -30,6 +30,7 @@ I am learning...
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#4506">
 </div>
+
 ---
 
 **Stats:**  
