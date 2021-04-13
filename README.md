@@ -34,6 +34,8 @@ I am learning...
 
 **Stats:**  
 
-<img src="https://github-profile-trophy.vercel.app/?username=Syrup&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
-![FLEX](https://github-readme-stats.vercel.app/api?username=syrup&theme=nightowl&show_icons=true)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Syrup&theme=dracula&count_private=true">
+</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
