@@ -28,7 +28,7 @@ I am learning...
 ---
 
 <div align="center">
-![Syrup#4506](https://discord.c99.nl/widget/theme-1/681843628317868049.png)
+<img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#4506">
 </div>
 ---
 
