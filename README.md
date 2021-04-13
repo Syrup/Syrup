@@ -30,6 +30,7 @@ I am learning...
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Syrup&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
 
+---
 
 ![Syrup#4506](https://discord.c99.nl/widget/theme-1/681843628317868049.png)
 
