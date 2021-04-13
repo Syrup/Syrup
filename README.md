@@ -33,7 +33,7 @@ I am learning...
 
 ---
 
-**Stats:**  
+## Stats:  
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Syrup&theme=dracula&count_private=true">
