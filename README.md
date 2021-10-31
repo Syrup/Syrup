@@ -9,7 +9,7 @@ Do you know my hobbies? it's just one : love you :D Just Kidding.
 If you think I don't have a hobby? maybe i have at least 3 hobbies
 - ✈️ Traveling
 - 💻 Coding
-- 😂 Watch Cartoons
+- 😂 Watch Cartoons      _including anime_
 
 Yes, all of that is fun.
 
