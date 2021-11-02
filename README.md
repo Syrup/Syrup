@@ -4,7 +4,7 @@
 
 if so you choose the right person.
 
-Do you know my hobbies? it's just one : love you :D Just Kidding.
+Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
 If you think I don't have a hobby? maybe i have at least 3 hobbies
 - ✈️ Traveling
@@ -24,12 +24,12 @@ I am learning...
 - goodgamersz665@gmail.com
 - contact@mioun.xyz
 
-
 ---
-
+#### 🙄
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#4506">
+<img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#9324">
 </div>
+<a href="https://profile.codersrank.io/user/syrup"><img alt="My Codersrank Profile XD" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=syrup&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--branding-text-color:lightblue" /></a>
 
 ---
 
