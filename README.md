@@ -21,7 +21,6 @@ I am learning...
 - 🇯🇵 Japan Language
 
 #### Email
-- goodgamersz665@gmail.com
 - contact@mioun.xyz
 
 ---
