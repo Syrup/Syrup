@@ -1,3 +1,5 @@
+![Views](https://komarev.com/ghpvc/?username=Syrup&label=views)
+
 ### Hi there 👋
 
 > Do you like javascript?
