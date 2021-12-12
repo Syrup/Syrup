@@ -25,18 +25,22 @@ I am learning...
 - contact@mioun.xyz
 
 ---
-#### 🙄
+
+<details>
+<summary>🙄</summary>
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#9324">
 </div>
 <a href="https://profile.codersrank.io/user/syrup"><img alt="My Codersrank Profile XD" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=syrup&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--branding-text-color:lightblue" /></a>
+</details>
 
 ---
 
-## Stats:  
-
+<details>
+<summary>Stats</summary>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Syrup&theme=dracula&count_private=true">
 </div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
+</details>
