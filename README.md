@@ -4,14 +4,12 @@
 
 > Do you like javascript?
 
-if so you choose the right person.
-
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
 If you think I don't have a hobby? maybe i have at least 3 hobbies
 - ✈️ Traveling
 - 💻 Coding
-- 😂 Watch Cartoons      _including anime_
+- 😂 Watch Cartoons
 
 Yes, all of that is fun.
 
