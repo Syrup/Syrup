@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
+<p align="center" style="display: block;">
+  <a href="https://discord.com/users/681843628317868049"><img src="https://lanyard.cnrad.dev/api/681843628317868049?idleMessage=I%27m%20currently%20not%20doing%20anything%21%20%28It%20mean%20i%27m%20so%20busy%20lol%29" alt="Discord Presence" /></a>
+</p>
+
+
 > Do you like javascript?
 
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
@@ -13,28 +18,22 @@ If you think I don't have a hobby? maybe i have at least 3 hobbies
 
 Yes, all of that is fun.
 
-I am learning...
-- [x] <img height="20" width="20" src="./icons/javascript.svg" /> ~~Javascript Programming Language~~
-- [x] <img height="20" width="20" src="./icons/typescript.svg" /> ~~TypeScript Programming Language~~
-- <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language
-- English
+TODO list:
+
+Learning:
+
+- [x] 1. <img height="20" width="20" src="./icons/javascript.svg" /> ~~Javascript Programming Language~~
+- [x] 2. <img height="20" width="20" src="./icons/typescript.svg" /> ~~TypeScript Programming Language~~
+- [ ] 3. <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language (stuck in the basic lol)
+- [ ] 4. <img height="28" width="20" src="./icons/rust.svg" /> Rust
+- [ ] 5. English (on my way to mastering my English speaking skills)
 
 #### Email
 - goodgamersz665@gmail.com
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s44as5sap2pobuknw4bbttkr5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31s44as5sap2pobuknw4bbttkr5m&redirect=true)
-
----
-
-<details>
-<summary>🙄</summary>
-<div align="center">
-<img src="https://discord.c99.nl/widget/theme-1/681843628317868049.png" alt="Syrup#9324">
-</div>
-<a href="https://profile.codersrank.io/user/syrup"><img alt="My Codersrank Profile XD" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=syrup&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--branding-text-color:lightblue" /></a>
-</details>
+<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
 
 ---
 
