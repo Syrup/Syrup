@@ -9,6 +9,32 @@
 
 > Do you like javascript?
 
+```log
+Greetings, welcome to my profile!
+I'm a Back-End Developer, i know CSS ofc but not that good!
+Commands:
+1. profile
+2. hobbies
+
+Your input:
+> profile
+
+Name: Fabian Maulana
+Username: Syrup
+Country: Indonesia
+Country Code: ID
+Country Flag: 🇮🇩
+Age: ▇▇ years old
+
+Your input:
+> hobbies
+
+- ✈️ Traveling
+- 💻 Coding
+- 😂 Watch Cartoons
+
+```
+
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
 If you think I don't have a hobby? maybe i have at least 3 hobbies
