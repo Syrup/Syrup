@@ -22,8 +22,8 @@ TODO list:
 
 Learning:
 
-- [x] 1. <img height="20" width="20" src="./icons/javascript.svg" /> ~~Javascript Programming Language~~
-- [x] 2. <img height="20" width="20" src="./icons/typescript.svg" /> ~~TypeScript Programming Language~~
+- [x] ~~1. <img height="20" width="20" src="./icons/javascript.svg" /> Javascript Programming Language~~
+- [x] ~~2. <img height="20" width="20" src="./icons/typescript.svg" /> TypeScript Programming Language~~
 - [ ] 3. <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language (stuck in the basic lol)
 - [ ] 4. <img height="28" width="32" src="./icons/rust.svg" /> Rust
 - [ ] 5. English (on my way to mastering my English speaking skills)
