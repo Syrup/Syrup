@@ -12,6 +12,8 @@
 > [PayPal](https://paypal.me/syrup13)
 > 
 > [Saweria](https://saweria.co/Syrup)
+> 
+> or be my [Sponsor](https://github.com/sponsors/Syrup) :3
 
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
