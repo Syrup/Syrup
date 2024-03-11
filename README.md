@@ -7,7 +7,7 @@
 </p>
 
 
-> Want to help me?
+> Want to support me?
 >
 > [PayPal](https://paypal.me/syrup13)
 > 
