@@ -2,29 +2,62 @@
 
 ### Hi there 👋
 
+---
+
 <p align="center" style="display: block;">
   <a href="https://discord.com/users/681843628317868049"><img src="https://lanyard.cnrad.dev/api/681843628317868049?idleMessage=I%27m%20currently%20not%20doing%20anything%21%20%28It%20mean%20i%27m%20so%20busy%20lol%29" alt="Discord Presence" /></a>
 </p>
 
+---
 
-> Want to support me?
->
-> [PayPal](https://paypal.me/syrup13)
+> JavaScript is weird
 > 
-> [Saweria](https://saweria.co/Syrup)
-> 
-> or be my [Sponsor](https://github.com/sponsors/Syrup) :3
+> \- me
+
+```log
+Greetings, welcome to my profile!
+I'm a Back-End Developer, i know a bit of CSS ofc but not that good!
+
+Commands:
+1. profile
+2. hobbies
+3. support
+
+Your input:
+> profile
+
+Name: Fabian Maulana
+Username: Syrup
+Country: Indonesia
+Country Code: ID
+Country Flag: 🇮🇩
+Age: ▇▇ years old
+
+Your input:
+> hobbies
+
+- ✈️ Traveling
+- 💻 Coding
+- 😂 Watch Cartoons
+
+Your input:
+> support
+
+- PayPal: https://paypal.me/syrup13
+- Saweria: https://saweria.co/Syrup
+- Sponsor: https://github.com/sponsors/Syrup
+```
 
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
-If you think I don't have a hobby? maybe i have at least 3 hobbies
+Do you think I don't have a hobby? I have 3 hobbies at least
 - ✈️ Traveling
 - 💻 Coding
 - 😂 Watch Cartoons
 
 Yes, all of that is fun.
 
-TODO list:
+TODO LIST:
 
 Learning:
 
