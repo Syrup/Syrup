@@ -7,14 +7,18 @@
 </p>
 
 
-> Do you like javascript?
+> JavaScript is weird
+> 
+> \- me
 
 ```log
 Greetings, welcome to my profile!
-I'm a Back-End Developer, i know CSS ofc but not that good!
+I'm a Back-End Developer, i know a bit of CSS ofc but not that good!
+
 Commands:
 1. profile
 2. hobbies
+3. support
 
 Your input:
 > profile
@@ -33,18 +37,24 @@ Your input:
 - 💻 Coding
 - 😂 Watch Cartoons
 
+Your input:
+> support
+
+- PayPal: https://paypal.me/syrup13
+- Saweria: https://saweria.co/Syrup
+- Sponsor: https://github.com/sponsors/Syrup
 ```
 
 Do you know my hobbies? there's no reason for you to know that, but... Why not?
 
-If you think I don't have a hobby? maybe i have at least 3 hobbies
+Do you think I don't have a hobby? I have 3 hobbies at least
 - ✈️ Traveling
 - 💻 Coding
 - 😂 Watch Cartoons
 
 Yes, all of that is fun.
 
-TODO list:
+TODO LIST:
 
 Learning:
 
