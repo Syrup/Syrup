@@ -2,10 +2,13 @@
 
 ### Hi there 👋
 
+---
+
 <p align="center" style="display: block;">
   <a href="https://discord.com/users/681843628317868049"><img src="https://lanyard.cnrad.dev/api/681843628317868049?idleMessage=I%27m%20currently%20not%20doing%20anything%21%20%28It%20mean%20i%27m%20so%20busy%20lol%29" alt="Discord Presence" /></a>
 </p>
 
+---
 
 > JavaScript is weird
 > 
@@ -58,8 +61,8 @@ TODO LIST:
 
 Learning:
 
-- [x] 1. <img height="20" width="20" src="./icons/javascript.svg" /> ~~Javascript Programming Language~~
-- [x] 2. <img height="20" width="20" src="./icons/typescript.svg" /> ~~TypeScript Programming Language~~
+- [x] ~~1. <img height="20" width="20" src="./icons/javascript.svg" /> Javascript Programming Language~~
+- [x] ~~2. <img height="20" width="20" src="./icons/typescript.svg" /> TypeScript Programming Language~~
 - [ ] 3. <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language (stuck in the basic lol)
 - [ ] 4. <img height="28" width="32" src="./icons/rust.svg" /> Rust
 - [ ] 5. English (on my way to mastering my English speaking skills)
