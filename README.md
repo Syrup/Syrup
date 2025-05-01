@@ -5,7 +5,7 @@
 ---
 
 <p align="center" style="display: block;">
-  <a href="https://discord.com/users/681843628317868049"><img src="https://lanyard.cnrad.dev/api/681843628317868049?idleMessage=I%27m%20currently%20not%20doing%20anything%21%20%28It%20mean%20i%27m%20so%20busy%20lol%29" alt="Discord Presence" /></a>
+  <a href="https://discord.com/users/681843628317868049"><img src="https://lanyard.cnrad.dev/api/681843628317868049?idleMessage=I%27m%20currently%20not%20doing%20anything%21%20%28It%20means%20I%27m%20so%20busy%20lol%29" alt="Discord Presence" /></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ```log
 Greetings, welcome to my profile!
-I'm a Back-End Developer, i know a bit of CSS ofc but not that good!
+I'm a Back-End Developer, I know a bit of CSS, of course, but I'm not that good at it!
 
 Commands:
 1. profile
@@ -48,9 +48,9 @@ Your input:
 - Sponsor: https://github.com/sponsors/Syrup
 ```
 
-Do you know my hobbies? there's no reason for you to know that, but... Why not?
+Do you know my hobbies? There's no reason for you to know that, but... why not?
 
-Do you think I don't have a hobby? I have 3 hobbies at least
+Do you think I don't have a hobby? I have at least 3 hobbies
 - ✈️ Traveling
 - 💻 Coding
 - 😂 Watch Cartoons
@@ -63,7 +63,7 @@ Learning:
 
 - [x] ~~1. <img height="20" width="20" src="./icons/javascript.svg" /> Javascript Programming Language~~
 - [x] ~~2. <img height="20" width="20" src="./icons/typescript.svg" /> TypeScript Programming Language~~
-- [ ] 3. <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language (stuck in the basic lol)
+- [ ] 3. <img height="28" width="28" src="./icons/python.svg" /> Python Programming Language (stuck in the basics lol)
 - [ ] 4. <img height="28" width="32" src="./icons/rust.svg" /> Rust
 - [ ] 5. English (on my way to mastering my English speaking skills)
 
