@@ -72,7 +72,7 @@ Yes, all of that is fun.
 
 ---
 
-<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
+<p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pgt4v77ezmpwbxf3y2e6tqwn3y&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
 
 ---
 
